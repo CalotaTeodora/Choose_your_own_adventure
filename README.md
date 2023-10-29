@@ -56,7 +56,7 @@ Welcome to **Choose Your One Adventure**, an interactive text-based adventure ga
 
 ## Credits
 
-This game is developed using Python, Cassandra, and OpenAI by [CalotaTeodora]. Inspired by classic text-based adventures, it offers a modern and interactive storytelling experience.
+This game is developed using Python, Cassandra, and OpenAI by ([CalotaTeodora](https://github.com/CalotaTeodora?tab=repositories)). Inspired by classic text-based adventures, it offers a modern and interactive storytelling experience.
 
 Enjoy your journey in the Whispering Woods! Remember, every choice you make shapes Elara's destiny.
 
