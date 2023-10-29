@@ -50,7 +50,7 @@ Welcome to **Choose Your One Adventure**, an interactive text-based adventure ga
 
 ## Contribute
 
-- **Report Issues:** Found a bug or have a suggestion? [Create an issue](link to issues) and let us know!
+- **Report Issues:** Found a bug or have a suggestion? [Create an issue]([link to issues](https://github.com/CalotaTeodora/Choose_your_own_adventure/issues/1)) and let us know!
   
 - **Contribute Code:** Want to add new features or fix existing issues? Fork the repository, make your changes, and create a pull request.
 
